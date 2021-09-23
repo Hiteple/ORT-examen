@@ -1,0 +1,19 @@
+{
+  "name": "ort-examen",
+  "version": "1.0.0",
+  "description": "## Consideraciones generales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiteple/ORT-examen.git"
+  },
+  "author": "Alex Lerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiteple/ORT-examen/issues"
+  },
+  "homepage": "https://github.com/Hiteple/ORT-examen#readme"
+}
